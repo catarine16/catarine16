@@ -1,6 +1,9 @@
-#  Olá, Me chamo Catarine Cardoso 
-## Tenho 18 anos, estou curso Tecnologia em Analise e Desenvolvimento de Sistemas na UNICAMP, sou formada em nível tecnico no mesmo curso pela ETEC.
 
+# Olá, eu sou a Catarine! 👋
+
+<div align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&quote=O%20sucesso%20é%20a%20soma%20de%20pequenos%20esforços%20repetidos%20dia%20após%20dia." alt="Quote">
+</div>
   ## 🚀 Meus Projetos/Atividades feitos na ETEC:
 
 | Projeto | Tecnologias | Descrição |
