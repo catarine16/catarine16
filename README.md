@@ -21,12 +21,15 @@
 
 ---
 
-### ⚛️ Estou aprendendo
-<p align="left">
-     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original-wordmark.svg"width="50" height="50"/> <br>
-  Na **B7Web**, em breve com novos projetos envolvendo o ecossistema React. 💡
-  <br>✨ *Foco em Metodologias Ágeis (Kanban e Scrum)*
-</p>
+##📔 Estou aprendendo
+
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react)
+![Scrum](https://img.shields.io/badge/Scrum-009FDA?style=for-the-badge)
+![Kanban](https://img.shields.io/badge/Kanban-0052CC?style=for-the-badge)
+
+- 🌐 Estudos pela **B7Web**
+- 🧠 Foco em projetos práticos
+
 
 ---
 
@@ -51,6 +54,5 @@
 
 ### 📫 Vamos nos conectar?
 <p align="left">
-  <a href="www.linkedin.com/in/catarinecardoso" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-  <a href="mailto:catarinecardosofranca@gmail.com" target="_blank"><img src="https://img.shields.io/badge/-Email-%23D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  
 </p>
