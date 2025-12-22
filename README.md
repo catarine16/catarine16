@@ -1,4 +1,5 @@
-## Olá, Me chamo Catarine Cardoso tenho 18 anos, estou curso Tecnologia em Analise e Desenvolvimento de Sistemas na UNICAMP, sou formada em nível tecnico no mesmo curso pela ETEC.
+##Olá, Me chamo Catarine Cardoso 
+## Tenho 18 anos, estou curso Tecnologia em Analise e Desenvolvimento de Sistemas na UNICAMP, sou formada em nível tecnico no mesmo curso pela ETEC.
 
   ## 🚀 Meus Projetos/Atividades feitos na ETEC:
 
