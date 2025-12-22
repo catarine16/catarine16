@@ -1,5 +1,13 @@
-## Hi there 👋
+## Olá, Me chamo Catarine Cardoso tenho 18 anos, estou curso Tecnologia em Analise e Desenvolvimento de Sistemas na UNICAMP, sou formada em nível tecnico no mesmo curso pela ETEC.
 
+  ## 🚀 Meus Projetos/Atividades feitos na ETEC:
+
+| Projeto | Tecnologias | Descrição |
+| :--- | :--- | :--- |
+| [🛡️ TCC Sparte](https://github.com/catarine16/TCC-ETEC-Sparte) | `Angular` `Firebase` `Figma` | Plataforma completa desenvolvida como Trabalho de Conclusão de Curso. |
+| [☕ Atividades Java](https://github.com/catarine16/Atividades-Java) | `Java` `Spring` `JavaFX` | Centralizador de exercícios de POO e Back-end. |
+| [🐘 Atividades PHP](https://github.com/catarine16/Atividades-PHP) | `PHP` `Laravel` `MySQL` | Projetos de desenvolvimento web e integração com bancos de dados. |
+| [🟨 Classes JS](https://github.com/catarine16/classes-javascript) | `JavaScript` `HTML5` | Exercícios focados em lógica de objetos e instâncias. |
 <!--
 **catarine16/catarine16** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
