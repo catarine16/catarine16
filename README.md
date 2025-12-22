@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/render?type=waving&color=7B2CBF&height=200&section=header&text=Olá,%20sou%20a%20Catarine!&fontSize=70&animation=fadeIn&fontColor=ffffff" />
+  
 </div>
 
 ### 🎓 Formação & Especialização
