@@ -23,7 +23,7 @@
 
 ### ⚛️ Estou aprendendo
 <p align="left">
-     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original-wordmark.svg"width="30" height="30"/>
+     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original-wordmark.svg"width="50" height="50"/> <br>
   Na **B7Web**, em breve com novos projetos envolvendo o ecossistema React. 💡
   <br>✨ *Foco em Metodologias Ágeis (Kanban e Scrum)*
 </p>
