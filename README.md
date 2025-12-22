@@ -32,11 +32,6 @@
 ---
 
 ## 📔 Estou aprendendo
-
-<p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40"/>
-</p>
-
 - ⚛️ **React** — aprofundando no ecossistema, boas práticas e organização de projetos  
 - 🔄 **Metodologias Ágeis** — Scrum & Kanban
 
