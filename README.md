@@ -3,8 +3,8 @@
 </div>
 
 ### 🎓 Formação & Especialização
-- 🏫 **Graduanda em ADS na UNICAMP** || Foco em Engenharia e Governança de TI
-- 🎓 **Técnica em ADS pela ETEC** || Base sólida em lógica e desenvolvimento
+- 🏫 **Graduanda em ADS na UNICAMP** || Conceitos mais teoricos de tecnologia, matérias como organização de computadores, programação, cálcuo etc.
+- 🎓 **Técnica em ADS pela ETEC** || Base sólida formada por prática direta, focado mais ativamente em programação
 - 🚀 **Foco Atual:** Especialização em **React, Next.js e TypeScript** pela B7Web
 
 ---
@@ -23,8 +23,7 @@
 
 ### ⚛️ Estou aprendendo
 <p align="left">
-  <img align="right" height="150" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNHJndnB3ZzZ4eHh4eHh4eHh4eHh4eHh4eHh4eHh4eHh4JmVwPXYxX2ludGVybmFsX2dpZl9ieV9pZCZjdD1z/eNAsjAJW5lE3mWIbtW/giphy.gif" />
-  
+     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original-wordmark.svg" />
   Na **B7Web**, em breve com novos projetos envolvendo o ecossistema React. 💡
   <br>✨ *Foco em Metodologias Ágeis (Kanban e Scrum)*
 </p>
