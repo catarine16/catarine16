@@ -21,9 +21,6 @@
 ## 🛠️ Tecnologias e Ferramentas
 
 <p align="center">
-  <i class="devicon-html5-plain-wordmark colored" width="45"></i>
-  <link rel="stylesheet" type='text/css' href="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/devicon.min.css" width="45" />
-  <i class="devicon-javascript-plain colored" width="45"></i>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="45"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="45"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/angular/angular-original.svg" width="45" />
