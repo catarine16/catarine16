@@ -21,7 +21,7 @@
 ###
 
 <div>
-  <img style="100%" src="https://capsule-render.vercel.app/api?type=rect&height=9&section=footer&reversal=false&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&descSize=20&descAlign=50&descAlignY=50&color=9410D3"  />
+  <img style="100%" src="https://capsule-render.vercel.app/api?type=rect&height=5&section=footer&reversal=false&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&descSize=20&descAlign=50&descAlignY=50&color=9410D3"  />
 </div>
 
 ###
@@ -54,6 +54,16 @@
 
 ###
 
+<div>
+  <img style="100%" src="https://capsule-render.vercel.app/api?type=rect&height=5&section=footer&reversal=false&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&descSize=20&descAlign=50&descAlignY=50&color=9410D3"  />
+</div>
+
+###
+
+<h3 align="center">💻 Contatos:</h3>
+
+###
+
 <div align="center">
   <a href="https://www.linkedin.com/in/catarinecardoso/" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
@@ -66,7 +76,10 @@
 ###
 
 <div>
-  <img style="100%" src="https://capsule-render.vercel.app/api?type=rect&height=80&section=footer&reversal=false&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&descSize=20&descAlign=50&descAlignY=50&color=9410D3"  />
+  <img style="100%" src="https://capsule-render.vercel.app/api?type=rect&height=45&section=footer&reversal=false&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&descSize=20&descAlign=50&descAlignY=50&color=9410D3"  />
+</div>
+
+###
 </div>
 
 ###
