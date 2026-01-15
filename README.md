@@ -1,79 +1,78 @@
 <h1 align="center">Olá! Eu sou a Catarine 👋</h1>
 
-<p align="center">
-  Estudante de tecnologia focada em desenvolvimento Front-end, com base sólida em programação e grande interesse em criar interfaces modernas, acessíveis e bem estruturadas.
-</p>
+###
 
----
+<p align="center">Estudante de tecnologia focada em desenvolvimento Front-end, com base sólida em programação e grande interesse em criar interfaces modernas, acessíveis e bem estruturadas.</p>
 
-## 🎓 Formação & Especialização
+###
 
-- 🏫 **Graduanda em Análise e Desenvolvimento de Sistemas — UNICAMP**  
-  Formação com foco em fundamentos teóricos de tecnologia, incluindo organização de computadores, programação e cálculo.
+<div>
+  <img style="100%" src="https://capsule-render.vercel.app/api?type=rect&height=9&section=footer&reversal=false&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&descSize=20&descAlign=50&descAlignY=50&color=9410D3"  />
+</div>
 
-- 🎓 **Técnica em Análise e Desenvolvimento de Sistemas — ETEC**  
-  Base sólida construída com prática constante em programação e desenvolvimento de sistemas.
+###
 
-- 🚀 **Foco atual:** Especialização em **React, Next.js e TypeScript** pela **B7Web**
+<h2 align="left">🎓 Formação & Especialização</h2>
 
----
+###
 
-## 🛠️ Tecnologias e Ferramentas
+<p align="left">🏫 Graduanda em Análise e Desenvolvimento de Sistemas — UNICAMP<br>Formação com foco em fundamentos teóricos de tecnologia, incluindo organização de computadores, programação e cálculo.<br><br>🎓 Técnica em Análise e Desenvolvimento de Sistemas — ETEC<br>Base sólida construída com prática constante em programação e desenvolvimento de sistemas.<br><br>🚀 Foco atual: Especialização em React pela Udemy [em andamento]</p>
 
-<p align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="45"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="45"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/angular/angular-original.svg" width="45" />
-  <i class="devicon-nextjs-original-wordmark" width="45"></i>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg"width="45" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="45"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="45"/>
-</p>
+###
 
----
+<div>
+  <img style="100%" src="https://capsule-render.vercel.app/api?type=rect&height=9&section=footer&reversal=false&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&descSize=20&descAlign=50&descAlignY=50&color=9410D3"  />
+</div>
 
-## 📔 Estou aprendendo
-- ⚛️ **React** — aprofundando no ecossistema, boas práticas e organização de projetos  
-- 🔄 **Metodologias Ágeis** — Scrum & Kanban
+###
 
----
+<h3 align="left">🛠️ Tecnologias e Ferramentas</h3>
 
-## 🚀 Projetos e Atividades (ETEC)
+###
 
-| Projeto | Tecnologias | Descrição |
-|--------|------------|-----------|
-| [🛡️ TCC Sparte](https://github.com/catarine16/TCC-ETEC-Sparte) | Angular · Firebase | Plataforma completa desenvolvida como projeto de TCC. |
-| [☕ Atividades Java](https://github.com/catarine16/Atividades-Java) | Java · Spring | Exercícios de POO e fundamentos de Back-end. |
-| [🐘 Atividades PHP](https://github.com/catarine16/Atividades-PHP) | PHP · Laravel | Projetos de desenvolvimento web e banco de dados. |
-| [🟨 Classes JS](https://github.com/catarine16/classes-javascript) | JavaScript · HTML5 | Exercícios focados em lógica e orientação a objetos. |
+<br clear="both">
 
----
+<div align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" height="40" alt="angularjs logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" alt="github logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" height="40" alt="firebase logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo"  />
+</div>
 
-## 📊 GitHub Stats
+###
 
-<p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=catarine16&layout=compact&theme=dracula" />
-</p>
-
----
-
-## 📫 Vamos nos conectar?
-
-<p align="center">
+<div align="center">
   <a href="https://www.linkedin.com/in/catarinecardoso/" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="35"/>
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
   </a>
-  &nbsp;&nbsp;
-  <a href="mailto:catarinecardosofranca@gmail.com">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" width="35"/>
+  <a href="mailto:catarinecardosofranca@gmail.com" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  />
   </a>
-  &nbsp;&nbsp;
-  <a href="https://github.com/catarine16">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="35"/>
-  </a>
-</p>
+</div>
 
-<p align="center">
-  💼 LinkedIn • ✉️ Email • 🐙 GitHub
-</p>
+###
 
+<div>
+  <img style="100%" src="https://capsule-render.vercel.app/api?type=rect&height=80&section=footer&reversal=false&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&descSize=20&descAlign=50&descAlignY=50&color=9410D3"  />
+</div>
+
+###
+
+<div align="center">
+  <img src="https://spotify-recently-played-readme.vercel.app/api?count=5" alt="Spotify recently played"  />
+</div>
+
+###
