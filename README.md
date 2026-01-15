@@ -2,6 +2,10 @@
 
 ###
 
+<p align="center">
+  <img src="https://img.shields.io/badge/UNICAMP-B11030?style=for-the-badge&logo=university&logoColor=white" />
+</p>
+
 <p align="center">Estudante de tecnologia focada em desenvolvimento Front-end, com base sólida em programação e grande interesse em criar interfaces modernas, acessíveis e bem estruturadas.</p>
 
 ###
@@ -17,6 +21,24 @@
 ###
 
 <p align="left">🏫 Graduanda em Análise e Desenvolvimento de Sistemas — UNICAMP<br>Formação com foco em fundamentos teóricos de tecnologia, incluindo organização de computadores, programação e cálculo.<br><br>🎓 Técnica em Análise e Desenvolvimento de Sistemas — ETEC<br>Base sólida construída com prática constante em programação e desenvolvimento de sistemas.<br><br>🚀 Foco atual: Especialização em React pela Udemy [em andamento]</p>
+
+###
+
+<div>
+  <img style="100%" src="https://capsule-render.vercel.app/api?type=rect&height=5&section=footer&reversal=false&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&descSize=20&descAlign=50&descAlignY=50&color=9410D3"  />
+</div>
+
+###
+
+<h2 align="left">📁 Projeto em Destaque: Sparte (TCC)</h2>
+
+<p align="left">
+No desenvolvimento do <b>Sparte</b>, atuei como <b>Desenvolvedora Front-end</b>, sendo responsável por transformar o conceito criativo em uma interface funcional e responsiva utilizando <b>Angular</b> e <b>TypeScript</b>. Meu foco principal foi garantir uma experiência de usuário (UX) fluida, trabalhando desde a prototipação de alta fidelidade no <b>Figma</b> até a implementação de componentes dinâmicos.
+<br><br>
+Além da interface, colaborei ativamente na integração com o <b>Firebase</b>, auxiliando na estruturação do banco de dados <b>NoSQL (Firestore)</b>, o que me permitiu desenvolver uma visão 360° de como o Front-end consome dados em tempo real de forma eficiente.
+<br><br>
+👉 <b><a href="https://github.com/catarine16/TCC-ETEC-Sparte">Ver Repositório do Projeto</a></b>
+</p>
 
 ###
 
@@ -77,7 +99,4 @@
 
 <div>
   <img style="100%" src="https://capsule-render.vercel.app/api?type=rect&height=45&section=footer&reversal=false&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&descSize=20&descAlign=50&descAlignY=50&color=9410D3"  />
-</div>
-
-###
 </div>
